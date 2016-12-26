@@ -1,0 +1,10 @@
+edu/sjsu/location/pojo/Score.class
+edu/sjsu/location/pojo/ScoreList.class
+edu/sjsu/location/service/RestCRUDService.class
+edu/sjsu/location/pojo/Incident.class
+edu/sjsu/location/pojo/Question.class
+edu/sjsu/location/pojo/FinalScore.class
+edu/sjsu/location/pojo/Game.class
+edu/sjsu/location/pojo/Location.class
+edu/sjsu/location/pojo/LocationList.class
+edu/sjsu/location/pojo/Street.class
